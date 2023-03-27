@@ -1,0 +1,3 @@
+Chances = 10
+Heads: 3
+Tails: 7
